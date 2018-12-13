@@ -1,0 +1,23 @@
+/* html, body {
+  position: absolute;
+  margin: 150;
+  padding: 0;
+  text-align: center;
+  top: 125px;
+}
+canvas {
+  display: block;
+}
+
+
+.blinking{
+  font-family: Baskerville;
+  font-size: 50px;
+	animation: blinker 2.5s linear infinite; 
+}
+
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+} */
